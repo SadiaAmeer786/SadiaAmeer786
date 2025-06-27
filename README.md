@@ -1,16 +1,33 @@
-## Hi there 👋
+Hey 👩‍💻 Sadia Ameer – Developer | GIS Specialist | Instructor 
 
-<!--
-**SadiaAmeer786/SadiaAmeer786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech-savvy professional with **10+ years of experience** working across **academia and the software industry**. I’ve served as a **Senior Software Engineer**, **Instructor**, and **Technical Trainer**, delivering cutting-edge solutions and mentoring hundreds of students and professionals.
 
-Here are some ideas to get you started:
+I specialize in developing automation tools, GUI applications, and data-driven systems — especially **location-based solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My portfolio combines practical, user-focused apps with real-world use cases — from prayer time reminders to daycare check systems and budgeting tools.
+
+---
+
+### 🧠 Areas of Expertise:
+- Python Programming (OOP, File I/O, API, Tkinter GUI)
+- GIS & Remote Sensing (ArcGIS, QGIS, Geopandas)
+- Software Engineering & System Design
+- Data Visualization & Automation
+- Academic Mentoring & Tech Training
+
+---
+
+### 📁 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🕌 [Prayer Reminder App](https://github.com/Sadia-Ameer/Sadia-Ameer-Portfolio/tree/main/Prayer-Reminder) | Console app displaying daily prayer times |
+| 👶 [Day Care Check Tracker](https://github.com/Sadia-Ameer/Sadia-Ameer-Portfolio/tree/main/DayCare-Check-Tracker) | Logs check-in/check-out info to CSV |
+| 💸 [Budget Calculator](https://github.com/Sadia-Ameer/Sadia-Ameer-Portfolio/tree/main/Budget-Calculator) | Calculates income, expenses, and savings |
+
+---
+
+### 🌍 Let’s Connect:
+- 📧 [Email](mailto:sadiaameersheikh@gmail.com)
+- 🌐 [WordPress (coming soon)](https://wordpress.com)
+- 💼 [Fiverr (coming soon)](https://fiverr.com)
